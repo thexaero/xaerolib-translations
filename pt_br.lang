@@ -41,6 +41,6 @@ gui.xaero_setting_entry_wrong_context=Esta entrada não está acessível no cont
 gui.xaero_default_enforced_profile=Perfil Padrão Forçado
 gui.xaero_box_default_enforced_profile=O id do perfil de configuração do servidor cujos valores são forçados aos jogadores por padrão.
 gui.xaero_ignore_enforcement_if_edit_permission=Ignorar Forçado como Editor
-gui.xaero_box_ignore_enforcement_if_edit_permission=Se você deve ignorar valoers de configuração normalmente forçados pelo servidor, se você possuir a permissão para editar o perfil do servidor (por exemplo, se for um operador). No entando, o forçamento do valor desta opção ("Ignorar Forçado como Editor") não pode ser inorada, permitindo que os dono do servidor desativem esse recurso se quiserem, o que torna um pouco mais difícil burlar as restrições forçadas pelo servidor.
+gui.xaero_box_ignore_enforcement_if_edit_permission=Se deve ignorar valores de configuração normalmente forçados pelo servidor, caso você possua permissão para editar o perfil do servidor (por exemplo, se for um operador). No entando, o forçamento do valor desta opção ("Ignorar Forçado como Editor") não pode ser ignorada, permitindo que os donos do servidor desativem esse recurso se quiserem, o que torna um pouco mais difícil burlar as restrições forçadas pelo servidor.
 gui.xaero_next=Seguinte >>
 gui.xaero_previous=<< Anterior
